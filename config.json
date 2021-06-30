@@ -1,0 +1,4 @@
+{
+	"prefix": ".",
+	"token": "YOUR_DISCORD_BOT_TOKEN"										//paste your discord bot token. Your token can be retrieved after creating an application and then a bot in the discord developer portal (https://discord.com/developers). Paste the BOT TOKEN.
+}
