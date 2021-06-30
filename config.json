@@ -1,4 +1,5 @@
 {
 	"prefix": ".",
-	"token": "YOUR_DISCORD_BOT_TOKEN"										//paste your discord bot token. Your token can be retrieved after creating an application and then a bot in the discord developer portal (https://discord.com/developers). Paste the BOT TOKEN.
+	"token": "YOUR_DISCORD_BOT_TOKEN",
+	"_comment_": "This is just a comment about this file. Paste your discord bot token in line 3. Your token can be retrieved after creating an application and then a bot in the discord developer portal (https://discord.com/developers). Paste the BOT TOKEN. You may delete this line of code once file downloaded, but if done so make sure to remove the comma from the end of line 3."
 }
